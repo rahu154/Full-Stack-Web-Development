@@ -1,0 +1,19 @@
+GitHub is a code hosting platform for version control and collaboration.
+It lets you and others work together on projects from anywhere. 
+It's used for storing, tracking, and collaborating on software projects.
+It makes it easy for developers to share code files and collaborate with fellow developers on open-source projects.
+GitHub also serves as a social networking site where developers can openly network, collaborate, and pitch their work.
+You can use the GitHub Copilot extension in VS Code to generate code, or to learn from the code it generates.
+Features:
+Connect - From the Team Explorer section, click the Connect... button in the GitHub invitation section to login to the extension. The extension supports two-factor authentication (2fa) with GitHub and stores credentials in the Windows Credential store so that Git Operations within Visual Studio work with your GitHub repositories. The extension also supports logging into a GitHub Enterprise instance.
+Clone - Once connected, click on the Clone button to list all repositories that you have access to on GitHub.
+Create - The create dialog lets you create a repository on GitHub.com and locally that are connected together.
+Publish - For a local-only repository, click on the Sync navigation item to get the GitHub publish control. This make it quick to publish your local work up to GitHub.
+Open in Visual Studio - once you log-in with the extension, GitHub.com will show a new button next to repositories labeled "Open in VisualStudio." Click on the button to clone the repository to Visual Studio.
+Create Gist - Create gists by using the GitHub context menu when you right-click on selected text
+Open/Link to GitHub - Easily open on GitHub or share a link to the code you're working on by using the GitHub context menu.
+Pull Requests - View your repository's Pull Requests and create new ones from the Pull Requests button in the Team Explorer Home
+See Pull Request diffs - See all Pull Request changes as individual diff views and open changed files directly from the Pull Request details view
+Review Pull Requests - Start a review and submit a review that comments, approves, or request changes to the Pull Request
+Inline Comments - Add review comments to the Pull Request changes you're reviewing directly from the VS diff view
+Fork - From Team Explorer Home, fork a repository you have already cloned.
