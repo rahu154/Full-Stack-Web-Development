@@ -12,3 +12,11 @@ Git is not the same as GitHub.
 GitHub makes tools that use Git.
 GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.
 In this tutorial, we will focus on using Git with GitHub.
+Git basic commands:
+git branch shows the branches being worked on locally.
+
+git merge merges lines of development together. This command is typically used to combine changes made on two distinct branches. For example, a developer would merge when they want to combine changes from a feature branch into the main branch for deployment.
+
+git pull updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+
+git push updates the remote repository with any commits made locally to a branch.
