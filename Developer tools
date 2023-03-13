@@ -1,0 +1,22 @@
+developer tools
+	In developers tools we have more shortcuts
+	Can inspect the website by shift+ctrl+j or otherwise right click on website select inspect option
+	We can see the codes used in that website
+	We can also modify the code using the option
+	But it will undo when the page gets refreshed
+	
+	we can hover over the website by clicking an icon on the top left corner
+	we can able to test website how it will look on different mobiles and tablets
+	we can do DOM manipulation and CSS prototyping
+	console
+		There is tab called console,can run a function there for checking
+		This comsole also shows if there is an error in the website
+	Sources
+		There is tab called source,we can see the code of the website
+		Can debug javascript(break points
+	Lighthouse
+		There is a panel lighthouse can generate report and analyze how the web page runs on the desktop
+		It can be analyzed using 3g network
+	Network Tab
+		It shows the deatails of the page like when the components where loaded
+		Shows loaded item in order
