@@ -1,0 +1,32 @@
+MySQL Tutorial
+MySQL
+MySQL tutorial provides basic and advanced concepts of MySQL. Our MySQL tutorial is designed for beginners and professionals.
+
+MySQL is a relational database management system based on the Structured Query Language, which is the popular language for accessing and managing the records in the database. MySQL is open-source and free software under the GNU license. It is supported by Oracle Company.
+Our MySQL tutorial includes all topics of MySQL database that provides for how to manage database and to manipulate data with the help of various SQL queries. These queries are: insert records, update records, delete records, select records, create tables, drop tables, etc. There are also given MySQL interview questions to help you better understand the MySQL database.
+What is Database?
+It is very important to understand the database before learning MySQL. A database is an application that stores the organized collection of records. It can be accessed and manage by the user very easily. It allows us to organize data into tables, rows, columns, and indexes to find the relevant information very quickly. Each database contains distinct API for performing database operations such as creating, managing, accessing, and searching the data it stores. Today, many databases available like MySQL, Sybase, Oracle, MongoDB, PostgreSQL, SQL Server, etc. In this section, we are going to focus on MySQL mainly.
+What is MySQL?
+MySQL is currently the most popular database management system software used for managing the relational database. It is open-source database software, which is supported by Oracle Company. It is fast, scalable, and easy to use database management system in comparison with Microsoft SQL Server and Oracle Database. It is commonly used in conjunction with PHP scripts for creating powerful and dynamic server-side or web-based enterprise applications.
+It is developed, marketed, and supported by MySQL AB, a Swedish company, and written in C programming language and C++ programming language. The official pronunciation of MySQL is not the My Sequel; it is My Ess Que Ell. However, you can pronounce it in your way. Many small and big companies use MySQL. MySQL supports many Operating Systems like Windows, Linux, MacOS, etc. with C, C++, and Java languages.
+MySQL is a Relational Database Management System (RDBMS) software that provides many things, which are as follows:
+It allows us to implement database operations on tables, rows, columns, and indexes.
+It defines the database relationship in the form of tables (collection of rows and columns), also known as relations.
+It provides the Referential Integrity between rows or columns of various tables.
+It allows us to updates the table indexes automatically.
+It uses many SQL queries and combines useful information from multiple tables for the end-users.
+
+popularity
+MySQL is becoming so popular because of these following reasons:
+
+MySQL is an open-source database, so you don't have to pay a single penny to use it.
+MySQL is a very powerful program that can handle a large set of functionality of the most expensive and powerful database packages.
+MySQL is customizable because it is an open-source database, and the open-source GPL license facilitates programmers to modify the SQL software according to their own specific environment.
+MySQL is quicker than other databases, so it can work well even with the large data set.
+MySQL supports many operating systems with many languages like PHP, PERL, C, C++, JAVA, etc.
+MySQL uses a standard form of the well-known SQL data language.
+MySQL is very friendly with PHP, the most popular language for web development.
+MySQL supports large databases, up to 50 million rows or more in a table. The default file size limit for a table is 4GB, but you can increase this (if your operating system can handle it) to a theoretical limit of 8 million terabytes (TB).
+
+MySQL follows the working of Client-Server Architecture. This model is designed for the end-users called clients to access the resources from a central computer known as a server using network services. Here, the clients make requests through a graphical user interface (GUI), and the server will give the desired output as soon as the instructions are matched. The process of MySQL environment is the same as the client-server model.
+
